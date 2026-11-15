@@ -1,0 +1,25 @@
+name: Podcast Conteur d'Afrique
+on:
+  schedule:
+    - cron: "17 6 * * *"   # chaque jour vers 7 h 17 (Paris, hiver)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: podcast
+jobs:
+  episodes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Nouveaux épisodes (histoires complètes uniquement)
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: python3 scripts/build.py
+      - name: Publier
+        run: |
+          git config user.name "conteur-podcast-bot"
+          git config user.email "conteur-podcast-bot@users.noreply.github.com"
+          git add docs episodes.json
+          git diff --cached --quiet || (git commit -m "Nouveaux épisodes du podcast" && git push)
