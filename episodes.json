@@ -141,5 +141,38 @@
   "taille": 1691074,
   "duree": 140.85,
   "parties": 1
+ },
+ {
+  "cle": "conte-40a7ffad-8114-8168-ae76-f2e2934fa2fe",
+  "titre": "Béhanzin, le Roi du Requin",
+  "rubrique": "Héros",
+  "description": "Béhanzin, le Roi du Requin.\n\nPartie 1 : Le Roi du Requin dit non\nPartie 2 : Le feu du palais\nPartie 3 : Le requin ne disparaît pas\n\nHistoire vraie, Fon (Bénin) · faits historiques vérifiés · Sources : BBC Afrique (2026) ; · Revue Outre-Mers/Cairn (2024) ; · SHD Défense.gouv.fr\n\nConteur d'Afrique : contes, héros et histoire de l'Afrique, racontés en français.",
+  "date": "2026-11-16T17:07:00+01:00",
+  "fichier": "2026-11-16-behanzin-le-roi-du-requin-1bd372.mp3",
+  "taille": 5254542,
+  "duree": 437.8,
+  "parties": 3
+ },
+ {
+  "cle": "conte-40a7ffad-8114-81ec-8793-ee98ba48526a",
+  "titre": "L'ami du lion, le fils que le roi renia",
+  "rubrique": "Conte",
+  "description": "L'ami du lion, le fils que le roi renia.\n\nPartie 1 : La malédiction du devin\nPartie 2 : Le frère lion\nPartie 3 : Le roi juste et l'herbe fatidique\n\nConte khassonké (Mali) · recueilli vers 1905 · Source : Charles Monteil, 1905\n\nConteur d'Afrique : contes, héros et histoire de l'Afrique, racontés en français.",
+  "date": "2026-11-16T21:00:00+01:00",
+  "fichier": "2026-11-16-l-ami-du-lion-le-fils-que-le-roi-renia-c8eec8.mp3",
+  "taille": 5353269,
+  "duree": 446.03,
+  "parties": 3
+ },
+ {
+  "cle": "excellence-4107ffad-8114-8178-9832-e445578ba5c7",
+  "titre": "Bronzes du Bénin : ce n'est presque jamais du bronze",
+  "rubrique": "Excellence",
+  "description": "Les bronzes du Bénin, ces plaques et ces têtes de rois venues de Benin City, sont presque tous en laiton, et leur histoire n'est pas terminée. Certains sont revenus au Nigeria, d'autres restent dans des vitrines à Londres. Selon toi, ces objets doivent-ils tous retourner au Nigeria, oui ou non ?\n\nExcellence africaine, une série de Conteur d'Afrique.",
+  "date": "2026-11-17T12:07:00+01:00",
+  "fichier": "2026-11-17-bronzes-du-benin-ce-n-est-presque-jamais-du-bronze-4f246a.mp3",
+  "taille": 1677909,
+  "duree": 139.730045,
+  "parties": 1
  }
 ]
