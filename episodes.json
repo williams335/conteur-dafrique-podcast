@@ -317,5 +317,38 @@
   "taille": 1455331,
   "duree": 121.19,
   "parties": 1
+ },
+ {
+  "cle": "conte-40a7ffad-8114-81dd-841d-ca5aa233f6fd",
+  "titre": "Samba le fils du voleur",
+  "rubrique": "Conte",
+  "description": "Samba le fils du voleur.\n\nPartie 1 : Le poulain qui fait de l'or\nPartie 2 : La queue de vache qui ressuscite\nPartie 3 : Le Paradis au fond du fleuve\n\nConte Khassonké (Mali) · recueilli en 1905 · Source : Charles Monteil, 1905\n\nConteur d'Afrique : contes, héros et histoire de l'Afrique, racontés en français.",
+  "date": "2026-11-26T21:00:00+01:00",
+  "fichier": "2026-11-26-samba-le-fils-du-voleur-813f2e.mp3",
+  "taille": 4796532,
+  "duree": 399.64,
+  "parties": 3
+ },
+ {
+  "cle": "excellence-41d7ffad-8114-816a-8eb1-d76c6a8f6332",
+  "titre": "Nanny, la cheffe marronne que la Jamaïque n'oublie pas",
+  "rubrique": "Excellence",
+  "description": "Nanny, cheffe des Marrons du Vent, a gardé sa liberté dans les Blue Mountains de Jamaïque. Son visage est sur un billet, mais personne ne sait à quoi elle ressemblait vraiment. Connaissais-tu son nom avant aujourd'hui ?\n\nExcellence africaine, une série de Conteur d'Afrique.",
+  "date": "2026-11-27T12:07:00+01:00",
+  "fichier": "2026-11-27-nanny-la-cheffe-marronne-que-la-jamaique-n-oublie-pas-0e3113.mp3",
+  "taille": 1562869,
+  "duree": 130.16,
+  "parties": 1
+ },
+ {
+  "cle": "conte-40a7ffad-8114-8187-b412-cbf631229c71",
+  "titre": "Agojie, les guerrières du Dahomey",
+  "rubrique": "Héros",
+  "description": "Agojie, les guerrières du Dahomey.\n\nPartie 1 : Les femmes que personne ne devait toucher\nPartie 2 : Six mille guerrières pour un roi\nPartie 3 : Abomey ne se rend pas\n\nGuerrières du royaume du Dahomey · Fon (Bénin actuel) · XVIIe–XIXe s. · Sources : BBC Afrique (2022) · Jeune Afrique (2017) · NatGeo (2022)\n\nConteur d'Afrique : contes, héros et histoire de l'Afrique, racontés en français.",
+  "date": "2026-11-27T17:07:00+01:00",
+  "fichier": "2026-11-27-agojie-les-guerrieres-du-dahomey-f143f0.mp3",
+  "taille": 5127288,
+  "duree": 427.19,
+  "parties": 3
  }
 ]
